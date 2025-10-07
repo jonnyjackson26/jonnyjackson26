@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Jonny. I study software engineering at Utah Valley University. See some of my projects on (my website.)[https://jonny-jackson.com/]
+
 <!--
 **jonnyjackson26/jonnyjackson26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
